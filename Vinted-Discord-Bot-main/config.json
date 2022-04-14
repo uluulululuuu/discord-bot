@@ -1,0 +1,23 @@
+{
+    "token": "OTYzOTI5NDUyOTE4NzU1MzQ4.YldPQg.C0vFPL20uViA5W-vZZvdEoxEim0",
+    "prefix": "$",
+    "status": "Dev by Tatsuki",
+    "suburl": {
+        "https://discord.com/api/webhooks/963934006120960030/cKfI8K0txKUoqeWEbGsDt8-B1x2TLn8an7RjdooYgH7OOxaxxbdsuYV3ucZWBpDfq6tq": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=3036449&color_id[]=3&status[]=1",
+            "salon": "manage"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
